@@ -1,0 +1,91 @@
+title:Avian Kiwi's preference list
+description:This is a very personalized and custom list of things I like, though it is heavily influanced from lightgg's and fanbyte's curataed roles based on most recommended items.  That said, I will toss out things I don't like.  Cope.
+
+// Crucible Dreams from fanbyte
+// SUROS Regime - Auto Rifle - Fanbyte Best+
+// Gnawing Hunger - Auto Rifle - Fanbyte Best+
+// The Forward Path - Auto Rifle - Fanbyte Best+
+// The Sumoner - Auto Rifle - Fanbyte Best+
+// Hard Light - Auto Rifle - Fanbyte Best
+// False Promises - Auto Rifle - Fanbyte
+// Trinity Ghoul - Bow - Fanbyte Best
+// Bastion - Fusion Rifle - Fanbyte Best
+// Jotunn - Fusion Rifle - Fanbyte Best
+// One Thousand Voices - Fusion Rifle
+// Telesto - Fusion Rifle - Fanbyte Best
+// Anarchy - Grenade Launcher - Fanbyte Best
+// The Colony - Grenage Launcher - Fanbyte Best
+// The Mountaintop - Grenade Launcher - Fanbyte Best
+// Wendigo - Grenade Launcher - Fanbyte Best
+// Witherhoard - Grenade Launcher - Fanbyte Best
+// Truthteller - Grenade Launcher - Fanbyte
+// Interference VI - Grenade Launcher - Fanbyte
+// Dire Promise - Hand Cannon - Fanbyte Best
+// Luna's Howl - Hand Cannon - Fanbyte Best
+// Not Forgotten - Hand Cannon - Fanbyte Best
+// Spare Rations - Hand Cannon - Fanbyte Best
+// Thorn - Hand Cannon - Fanbyte Best
+// Ace of Spades - Hand Cannon - Fanbyte
+// Crimson - Hand Cannon - Fanbyte
+// Eriana's Vow - Hand Cannon - Fanbyte
+// Sunshot - Hand Cannon - Fanbyte
+// The Last Word - Hand Cannon - Fanbyte
+// Arbalest - Linear Fusion Rifle - Fanbyte Best
+// Line in the Sand - Linear Fusion Rifle - Fanbyte
+// Sleeper Simulant - Linear Fusion Rifle - Fanbyte
+// Xenophage - Machine Gun - Fanbyte Best
+// 21% Delirium - Machine Gun - Fanbyte
+// Hammerhead - Machine Gun - Fanbyte
+// Thunderlord - Machine Gun - Fanbyte
+// Outbreak Perfected - Pulse Rifle - Fanbyte Best
+// Vigilance Wing - Pulse Rifle - Fanbyte Best
+// Bad Omens - Rocket Launcher - Fanbyte Best
+// The Wardcliff Coil - Rocket Launcher - Fanbyte Best
+// Truth - Rocket Launcher - Fanbyte Best
+// Night Watch - Scout Rifle - Fanbyte
+// MIDA Multi-Tool - Scout Rifle - Fanbyte
+// Randy's Throwing Knife - Scout Rifle - Fanbyte
+// Astral Horizon - Shotgun - Fanbyte Best
+// Felwinter's Lie - Shotgun - Fanbyte Best
+// First In Last Out - Shotgun - Fanbyte
+// Mindbender's Ambition - Shotgun - Fanbyte
+// Perfect Paradox - Shotgun - Fanbyte
+// Seventh Seraph CQC-12 - Shotgun - Fanbyte
+// Breachlight - Sidearm - Fanbyte Best
+// Devil's Ruin - Sidearm - Fanbyte Best
+// Drang (Baroque) - Sidearm - Fanbyte
+// Lonesome - Sidearm - Fanbyte
+// Death Adder - Submachine Guns - Fanbyte
+// IKELOS_SMG_v1.0.2 - Submachine Gun - Fanbyte
+// Riskrunner - Submachine Gun - Fanbyte Best
+// The Recluse - Submachine Guns - Fanbyte
+// Beloved - Sniper Rifle - Fanbyte Best
+// Revoker - Sniper Rifle - Fanbyte Best
+// Whisper of the Worm - Sniper Rifle - Fanbyte Best
+// Falling Guillotine - Sword - Fanbyte Best+
+// Black Talon - Sword - Fanbyte Best
+// Temptation's Hook - Sword - Fanbyte
+// Ruinous Effigy - Trace Rifle - Fanbyte Best
+// Divinity - Trace Rifle - Fanbyte
+
+
+// Best Hand Cannons
+// Exotics
+
+// Thorn
+dimwishlist:#notes:Poison effect|tags:pvp
+// Ace Of Spades
+dimwishlist:#notes:All about the best|tags:pvp,pve,gambit
+// Crimson
+dimwishlist:#notes:Burst fire|tags:pvp
+
+// Legenday
+
+// The Old Fashioned
+dimwishlist:#notes:With Firmly Planted works with sliding so with sliding, use like shotgun|tags:pvp
+// Spare Rations
+dimwishlist:#notes:Best overall|tags:pvp,pve,gambit
+
+// Trash Hand Cannons
+
+// End Hand Cannons
