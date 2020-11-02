@@ -1,6 +1,10 @@
 title:Avian Kiwi's preference list
 description:This is a very personalized and custom list of things I like, though it is heavily influanced from lightgg's and fanbyte's curataed roles based on most recommended items.  That said, I will toss out things I don't like.  Cope.
 
+// Truth
+//notes:TK (PvP / PvE / Gambit): I love this|tags:pvp,pve,gambit
+dimwishlist:item=1201830623&perks=1478423395,2822142346,2911329003,3465198467
+
 // Crucible Dreams from fanbyte
 // SUROS Regime - Auto Rifle - Fanbyte Best+
 // Gnawing Hunger - Auto Rifle - Fanbyte Best+
@@ -68,24 +72,3 @@ description:This is a very personalized and custom list of things I like, though
 // Ruinous Effigy - Trace Rifle - Fanbyte Best
 // Divinity - Trace Rifle - Fanbyte
 
-
-// Best Hand Cannons
-// Exotics
-
-// Thorn
-dimwishlist:#notes:Poison effect|tags:pvp
-// Ace Of Spades
-dimwishlist:#notes:All about the best|tags:pvp,pve,gambit
-// Crimson
-dimwishlist:#notes:Burst fire|tags:pvp
-
-// Legenday
-
-// The Old Fashioned
-dimwishlist:#notes:With Firmly Planted works with sliding so with sliding, use like shotgun|tags:pvp
-// Spare Rations
-dimwishlist:#notes:Best overall|tags:pvp,pve,gambit
-
-// Trash Hand Cannons
-
-// End Hand Cannons
