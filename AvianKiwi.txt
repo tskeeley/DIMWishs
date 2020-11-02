@@ -2,7 +2,7 @@ title:Avian Kiwi's preference list
 description:This is a very personalized and custom list of things I like, though it is heavily influanced from lightgg's and fanbyte's curataed roles based on most recommended items.  That said, I will toss out things I don't like.  Cope.
 
 // Truth
-dimwishlist:item=1201830623&perks=1478423395,2822142346,2911329003,3465198467#notes:TK (PvP / PvE / Gambit): I love this|tags:pvp,pve,gambit
+dimwishlist:item=1201830623&perks=1478423395,2822142346,2911329003,3465198467#notes:ALL: I love this|tags:pvp,pve,gambit
 
 // Crucible Dreams from fanbyte
 // SUROS Regime - Auto Rifle - Fanbyte Best+
