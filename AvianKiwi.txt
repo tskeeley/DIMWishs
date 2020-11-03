@@ -2,9 +2,9 @@ title:Avian Kiwi's preference list
 description:This is a very personalized and custom list of things I like, though it is heavily influanced from lightgg's and fanbyte's curataed roles based on most recommended items.  That said, I will toss out things I don't like.  Cope.
 
 // Anything with these perks are trash, no matter what!
-dimwishlist:item=-1&perks=1820235745#notes:Substance is unwanted|tags=junk
-dimwishlist:item=-1&perks=2420895100#notes:Extended Mag is unwanted|tags=junk
-dimwishlist:item=-1&perks=2458213969#notes:Multikill Clip is unwanted|tags=junk
+dimwishlist:item=-69420&perks=-1820235745#notes:Substance is unwanted|tags=junk
+dimwishlist:item=-69420&perks=-2420895100#notes:Extended Mag is unwanted|tags=junk
+dimwishlist:item=-69420&perks=-2458213969#notes:Multikill Clip is unwanted|tags=junk
 
 // Auto Rifles
 
