@@ -1,13 +1,71 @@
 title:Avian Kiwi's preference list
 description:This is a very personalized and custom list of things I like, though it is heavily influanced from lightgg's and fanbyte's curataed roles based on most recommended items.  That said, I will toss out things I don't like.  Cope.
 
-// Truth
-//notes:TK (PvP / PvE / Gambit): I love this|tags:pvp,pve,gambit
-dimwishlist:item=1201830623&perks=1478423395,2822142346,2911329003,3465198467
+// Anything with these perks are trash, no matter what!
+dimwishlist:item=-69420&perks=1820235745#notes:Substance is unwanted|tags=junk
+dimwishlist:item=-69420&perks=2420895100#notes:Extended Mag is unwanted|tags=junk
+dimwishlist:item=-69420&perks=2458213969#notes:Multikill Clip is unwanted|tags=junk
 
-// Crucible Dreams from fanbyte
+// Auto Rifles
+
 // SUROS Regime - Auto Rifle - Fanbyte Best+
+//notes:A+ (PvP / PvE / Gambit): All the love|tags:pvp,pve,gambit
+dimwishlist:item=2856683562&perks=3250034553,106909392,1378047685,990298390
+
 // Gnawing Hunger - Auto Rifle - Fanbyte Best+
+//notes:A+ (PvP): Considered the Meta|tags:pvp
+dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,1015611457
+dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,1015611457
+dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,1015611457
+dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,1015611457
+dimwishlist:item=821154603&perks=3250034553,106909392,1890422124,1015611457
+dimwishlist:item=821154603&perks=1482024992,106909392,1890422124,1015611457
+dimwishlist:item=821154603&perks=1467527085,3142289711,2387244414,1015611457
+dimwishlist:item=821154603&perks=3250034553,3142289711,2387244414,1015611457
+dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,1015611457
+dimwishlist:item=821154603&perks=1467527085,106909392,2387244414,1015611457
+dimwishlist:item=821154603&perks=3250034553,106909392,2387244414,1015611457
+dimwishlist:item=821154603&perks=1482024992,106909392,2387244414,1015611457
+dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,3523296417
+dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,3523296417
+dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,3523296417
+dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,3523296417
+dimwishlist:item=821154603&perks=3250034553,106909392,1890422124,3523296417
+dimwishlist:item=821154603&perks=1482024992,106909392,1890422124,3523296417
+dimwishlist:item=821154603&perks=1467527085,3142289711,2387244414,3523296417
+dimwishlist:item=821154603&perks=3250034553,3142289711,2387244414,3523296417
+dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,3523296417
+dimwishlist:item=821154603&perks=1467527085,106909392,2387244414,3523296417
+dimwishlist:item=821154603&perks=3250034553,106909392,2387244414,3523296417
+dimwishlist:item=821154603&perks=1482024992,106909392,2387244414,3523296417
+
+//notes:A+ (PvE): Considered the Meta|tags:pve
+dimwishlist:item=821154603&perks=839105230,106909392,2387244414,3425386926
+dimwishlist:item=821154603&perks=3661387068,106909392,2387244414,3425386926
+dimwishlist:item=821154603&perks=4090651448,106909392,2387244414,3425386926
+dimwishlist:item=821154603&perks=839105230,1087426260,2387244414,3425386926
+dimwishlist:item=821154603&perks=3661387068,1087426260,2387244414,3425386926
+dimwishlist:item=821154603&perks=4090651448,1087426260,2387244414,3425386926
+dimwishlist:item=821154603&perks=839105230,106909392,1890422124,3425386926
+dimwishlist:item=821154603&perks=3661387068,106909392,1890422124,3425386926
+dimwishlist:item=821154603&perks=4090651448,106909392,1890422124,3425386926
+dimwishlist:item=821154603&perks=839105230,1087426260,1890422124,3425386926
+dimwishlist:item=821154603&perks=3661387068,1087426260,1890422124,3425386926
+dimwishlist:item=821154603&perks=4090651448,1087426260,1890422124,3425386926
+dimwishlist:item=821154603&perks=839105230,106909392,2387244414,3523296417
+dimwishlist:item=821154603&perks=3661387068,106909392,2387244414,3523296417
+dimwishlist:item=821154603&perks=4090651448,106909392,2387244414,3523296417
+dimwishlist:item=821154603&perks=839105230,1087426260,2387244414,3523296417
+dimwishlist:item=821154603&perks=3661387068,1087426260,2387244414,3523296417
+dimwishlist:item=821154603&perks=4090651448,1087426260,2387244414,3523296417
+dimwishlist:item=821154603&perks=839105230,106909392,1890422124,3523296417
+dimwishlist:item=821154603&perks=3661387068,106909392,1890422124,3523296417
+dimwishlist:item=821154603&perks=4090651448,106909392,1890422124,3523296417
+dimwishlist:item=821154603&perks=839105230,1087426260,1890422124,3523296417
+dimwishlist:item=821154603&perks=3661387068,1087426260,1890422124,3523296417
+dimwishlist:item=821154603&perks=4090651448,1087426260,1890422124,3523296417
+
+
 // The Forward Path - Auto Rifle - Fanbyte Best+
 // The Sumoner - Auto Rifle - Fanbyte Best+
 // Hard Light - Auto Rifle - Fanbyte Best
@@ -23,7 +81,6 @@ dimwishlist:item=1201830623&perks=1478423395,2822142346,2911329003,3465198467
 // Wendigo - Grenade Launcher - Fanbyte Best
 // Witherhoard - Grenade Launcher - Fanbyte Best
 // Truthteller - Grenade Launcher - Fanbyte
-// Interference VI - Grenade Launcher - Fanbyte
 // Dire Promise - Hand Cannon - Fanbyte Best
 // Luna's Howl - Hand Cannon - Fanbyte Best
 // Not Forgotten - Hand Cannon - Fanbyte Best
@@ -45,13 +102,16 @@ dimwishlist:item=1201830623&perks=1478423395,2822142346,2911329003,3465198467
 // Vigilance Wing - Pulse Rifle - Fanbyte Best
 // Bad Omens - Rocket Launcher - Fanbyte Best
 // The Wardcliff Coil - Rocket Launcher - Fanbyte Best
+
 // Truth - Rocket Launcher - Fanbyte Best
+//notes:A (PvP / PvE / Gambit): It go boom!|tags:pvp,pve,gambit
+dimwishlist:item=1201830623&perks=1478423395,2822142346,2911329003,3465198467
+
 // Night Watch - Scout Rifle - Fanbyte
 // MIDA Multi-Tool - Scout Rifle - Fanbyte
 // Randy's Throwing Knife - Scout Rifle - Fanbyte
 // Astral Horizon - Shotgun - Fanbyte Best
 // Felwinter's Lie - Shotgun - Fanbyte Best
-// First In Last Out - Shotgun - Fanbyte
 // Mindbender's Ambition - Shotgun - Fanbyte
 // Perfect Paradox - Shotgun - Fanbyte
 // Seventh Seraph CQC-12 - Shotgun - Fanbyte
@@ -59,9 +119,9 @@ dimwishlist:item=1201830623&perks=1478423395,2822142346,2911329003,3465198467
 // Devil's Ruin - Sidearm - Fanbyte Best
 // Drang (Baroque) - Sidearm - Fanbyte
 // Lonesome - Sidearm - Fanbyte
+// Riskrunner - Submachine Gun - Fanbyte Best
 // Death Adder - Submachine Guns - Fanbyte
 // IKELOS_SMG_v1.0.2 - Submachine Gun - Fanbyte
-// Riskrunner - Submachine Gun - Fanbyte Best
 // The Recluse - Submachine Guns - Fanbyte
 // Beloved - Sniper Rifle - Fanbyte Best
 // Revoker - Sniper Rifle - Fanbyte Best
@@ -72,3 +132,7 @@ dimwishlist:item=1201830623&perks=1478423395,2822142346,2911329003,3465198467
 // Ruinous Effigy - Trace Rifle - Fanbyte Best
 // Divinity - Trace Rifle - Fanbyte
 
+
+// Rejected
+// Interference VI - Grenade Launcher - Fanbyte - We don't like
+// First In Last Out - Shotgun - Fanbyte - We don't like
